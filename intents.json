@@ -31,6 +31,13 @@
       "O programa contribui para a criação e fortalecimento de núcleos de desenvolvimento tecnológico dentro das empresas. \n- Incentiva a estruturação de departamentos de inovação, tornando a pesquisa uma atividade contínua dentro do ambiente corporativo.\n- Ampliando as oportunidades de emprego para pesquisadores no mercado, fortalecendo a inserção de profissionais qualificados na iniciativa privada.\n- Ajuda empresas a consolidarem uma cultura de inovação, garantindo que a pesquisa científica seja um diferencial competitivo.\n- Cria um ambiente favorável para que pequenas empresas desenvolvam tecnologias próprias e reduzam a dependência de inovações externas.\n"
     ],
     "context": ["pipe", "objetivos", "objetivo"]
+  },
+  {
+    "tag": "etapas_pipe",
+    "patterns": ["quais etapas do programa?", "pipe possui várias etapas?", "etapas do pipe"],
+    "responses": [ "O PIPE possui quatro etapas principais:\n\n1️ **Fase 1**: Avaliação da viabilidade técnico-científica da proposta. Duração de até 9 meses, com orçamento de até R$ 300.000, além de Reserva Técnica e Benefícios Complementares.\n\n2️⃣ **Fase 2**: Execução da pesquisa propriamente dita. Duração de até 24 meses, com orçamento de até R$ 1.500.000, além de Reserva Técnica e Benefícios Complementares.\n\n3️⃣ **PIPE Invest**: Aceleração da chegada ao mercado de projetos da Fase 2, quando há uma terceira parte interessada. Duração de até 24 meses, com orçamento de até R$ 1.500.000.\n\n4️⃣ **Fase 3**: Desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou serviços inovadores, a partir de pesquisas anteriores realizadas sem apoio da FAPESP ou com apoio do PIPE."
+    ],
+    "context": ["pipe", "etapas"]
   }
 ]
 }
